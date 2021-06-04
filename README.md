@@ -1,5 +1,9 @@
 # **EVA6 Session5**
 
+# Assignment Target 
+
+99.4% (this must be consistently shown in your last few epochs, and not a one-time achievement)
+
 
 # **Step 1**
 ______________
@@ -21,7 +25,7 @@ ______________
  3. Best Test Accuarcy: 99.11
  
 # Analysis:
- 1. Model is good  and Over fitting 
+ 1. Model is working but we see for some of the epochs its overfitting 
 
 ___________
 
@@ -65,7 +69,8 @@ ___________
  3. Best Test Accuarcy: 99.28
  
 # Analysis:
- 1. Model is performing good and in some epochs it is close to the target.
+ 1. The model is under fitting and we can see some consisnet accuary in the test data  aroun 99.2 but our target is 99.4.
+ 
 
 ___________
 
@@ -88,6 +93,8 @@ ___________
  
 # Analysis:
  1. Model is performing good and in some epochs it is close to the target.
+ 2. Compared to previous iteration we increase our test accuarcy a bit but we stii need to reach the target.
+ 
  
 
 
