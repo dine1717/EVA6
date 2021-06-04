@@ -2,7 +2,9 @@
 
 # Assignment Target 
 
-99.4% (this must be consistently shown in your last few epochs, and not a one-time achievement)
+1. Acheive 99.4%  accuraacy on MNIST datastet(this must be consistently shown in your last few epochs, and not a one-time achievement)
+2. Less than or equal to 15 epochs
+3. Less than 10000 Parameters
 
 
 # **Step 1**
