@@ -8,7 +8,7 @@ ______________
 Target
 
  1. Settle on Architeture
- 2. Visulae Data
+ 2. Visualize Data
  3. Define Data Loaders, Data Transformations and Image Normalization
  4. Design vanila model architeture.
  
