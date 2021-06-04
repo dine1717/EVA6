@@ -45,8 +45,27 @@ ___________
  
 # Analysis:
  1. Model is performing good and in some epochs it is close to the target.
+
+___________
+
+# **Step 3**
+
+
+
  
- [Code 1](https://github.com/dine1717/EVA6/blob/Session5/Step_2.ipynb)
+ [Code 3](https://github.com/dine1717/EVA6/blob/Session5/Step_3.ipynb)
+ 
+# Target
+1. Increase aacuracy  by using dropout and Augmentation
+ 
+# Result:
+ 
+ 1. Total Parameters: 8872
+ 2. Best Training Accuarcy: 99.23
+ 3. Best Test Accuarcy: 99.3
+ 
+# Analysis:
+ 1. Model is performing good and in some epochs it is close to the target.
  
  [Code 1](https://github.com/dine1717/EVA6/blob/Session5/Step_1.ipynb)
  
