@@ -61,8 +61,8 @@ ___________
 # Result:
  
  1. Total Parameters: 8872
- 2. Best Training Accuarcy: 99.23
- 3. Best Test Accuarcy: 99.3
+ 2. Best Training Accuarcy: 99.14
+ 3. Best Test Accuarcy: 99.28
  
 # Analysis:
  1. Model is performing good and in some epochs it is close to the target.
@@ -77,12 +77,13 @@ ___________
  [Code 4](https://github.com/dine1717/EVA6/blob/Session5/Step_4.ipynb)
  
 # Target
-1. Increase aacuracy  by using dropout and Augmentation
+1. Apply Learning Rate Scheduler
+
  
 # Result:
  
  1. Total Parameters: 8872
- 2. Best Training Accuarcy: 99.23
+ 2. Best Training Accuarcy: 99.05
  3. Best Test Accuarcy: 99.3
  
 # Analysis:
@@ -100,16 +101,21 @@ ___________
  [Code 5](https://github.com/dine1717/EVA6/blob/Session5/Step_5.ipynb)
  
 # Target
-1. Increase aacuracy  by using dropout and Augmentation
- 
-# Result:
- 
- 1. Total Parameters: 8872
- 2. Best Training Accuarcy: 99.23
- 3. Best Test Accuarcy: 99.3
- 
-# Analysis:
- 1. Model is performing good and in some epochs it is close to the target.
- 
+
+1. Less than 7000 parameters
+2. Less than 15 epochs
+3. Test with Cyclic LR
+4. Add small dropout of 5%
+
+# Results
+
+1. Number of Parameters = 6202 + 140 non trainable BN params
+2. Best Train Accuracy = 98.97
+3.Best Test Accuracy = 99.45
+
+# Analysis
+
+1.We pushed the model to achieve target with approx 6000 Parameters
+2. Drop in accuracy was predicted because of making the training more difficult. But still we met the target.
 
 
