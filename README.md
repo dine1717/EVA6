@@ -4,7 +4,8 @@
 # **Step 1**
 ______________
 
-https://github.com/dine1717/EVA6/blob/Session5/Step_1.ipynb
+[Code 1](https://github.com/dine1717/EVA6/blob/Session5/Step_1.ipynb)
+
 
 # Target
 
