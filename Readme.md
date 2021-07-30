@@ -1,5 +1,13 @@
 Spatial Transformer
 
+Team Members: Bharath,Sabeesh,Manu,Dinesh
+
+
+Github link: https://github.com/dine1717/EVA6/blob/Session12/Session12_Spatial_Transformer.ipynb
+
+colab link : https://github.com/dine1717/EVA6/blob/Session12/Session12_Spatial_Transformer.ipynb
+
+
 
 A Spatial Transformer is an image model block that explicitly allows the spatial manipulation of data within a convolutional neural network. It gives CNNs the ability to actively spatially transform feature maps, conditional on the feature map itself, without any extra training supervision or modification to the optimisation process. Unlike pooling layers, where the receptive fields are fixed and local, the spatial transformer module is a dynamic mechanism that can actively spatially transform an image (or a feature map) by producing an appropriate transformation for each input sample. The transformation is then performed on the entire feature map (non-locally) and can include scaling, cropping, rotations, as well as non-rigid deformations.
 
@@ -14,9 +22,6 @@ Spatial transformer networks boils down to three main components :
 
 
 
-Github link: https://github.com/dine1717/EVA6/blob/Session12/Session12_Spatial_Transformer.ipynb
-
-colab link : https://github.com/dine1717/EVA6/blob/Session12/Session12_Spatial_Transformer.ipynb
 
 
 
