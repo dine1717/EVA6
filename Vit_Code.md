@@ -42,5 +42,7 @@ Split Image into patches
    The input image is splited into N patches and convreted into 768 embedding vectors by learnable convlution 
    
         self.projection = nn.Conv2d(num_channels, embed_dim, kernel_size=patch_size, stride=patch_size)
-    
+        
+
    
+
