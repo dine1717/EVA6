@@ -49,7 +49,7 @@ Data Set Downloaded from Kaggle (https://www.kaggle.com/c/dogs-vs-cats-redux-ker
     channels=3,
     ).to(device)
     
- ###  Notebook Link - https://github.com/dine1717/EVA6/blob/Session13/vit_dogs_vs_cats.ipynb
+ Notebook Link - https://github.com/dine1717/EVA6/blob/Session13/vit_dogs_vs_cats.ipynb
  
  
 Training logs 
