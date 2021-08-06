@@ -5,9 +5,9 @@
 # Assignmet 
 
 1. Let's review this blog on using ViT for Cats vs Dogs. Your assignment is to implement this blog and train the ViT model for Cats vs Dogs. If you wish you can use transfer learning.
-  1.Share the link to the README that describes your CATS vs DOGS training using VIT. Expecting to see the training logs (at least 1) there.  
-  2.Share the link to the notebook where I can find your Cats vs Dogs Training
-  3.Expecting a Separate or same README to explain your understanding of all the Classes that we covered in the class. 
+  1. Share the link to the README that describes your CATS vs DOGS training using VIT. Expecting to see the training logs (at least 1) there.  
+  2. Share the link to the notebook where I can find your Cats vs Dogs Training
+  3. Expecting a Separate or same README to explain your understanding of all the Classes that we covered in the class. 
   
  
  
@@ -45,3 +45,6 @@
     transformer=efficient_transformer,
     channels=3,
     ).to(device)
+    
+ ###  Notebook Link - 
+ 
