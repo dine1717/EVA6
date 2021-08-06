@@ -13,6 +13,7 @@
  
  1. Data Set Downloaded from Kaggle (https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data)
 
+
         Train Data: 25000
         Test Data: 12500
    
