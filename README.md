@@ -49,5 +49,35 @@ Data Set Downloaded from Kaggle (https://www.kaggle.com/c/dogs-vs-cats-redux-ker
     channels=3,
     ).to(device)
     
- ###  Notebook Link - 
+ ###  Notebook Link - https://github.com/dine1717/EVA6/blob/Session13/vit_dogs_vs_cats.ipynb
+ 
+ 
+Training logs 
+
+    Epoch : 15 - loss : 0.6099 - acc: 0.6611 - val_loss : 0.6095 - val_acc: 0.6683
+
+    100%
+    313/313 [03:03<00:00, 1.71it/s]
+
+    Epoch : 16 - loss : 0.6026 - acc: 0.6648 - val_loss : 0.6046 - val_acc: 0.6626
+
+    100%
+    313/313 [02:33<00:00, 2.04it/s]
+
+    Epoch : 17 - loss : 0.6002 - acc: 0.6685 - val_loss : 0.5977 - val_acc: 0.6746
+
+    100%
+    313/313 [06:04<00:00, 1.16s/it]
+
+    Epoch : 18 - loss : 0.5950 - acc: 0.6721 - val_loss : 0.5903 - val_acc: 0.6774
+
+    100%
+    313/313 [03:04<00:00, 1.70it/s]
+
+    Epoch : 19 - loss : 0.5921 - acc: 0.6774 - val_loss : 0.5959 - val_acc: 0.6679
+
+    100%
+    313/313 [02:33<00:00, 2.04it/s]
+
+    Epoch : 20 - loss : 0.5906 - acc: 0.6786 - val_loss : 0.5949 - val_acc: 0.6824
  
