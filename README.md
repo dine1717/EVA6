@@ -1,5 +1,6 @@
 # Session 13 - ViT - An Image is worth 16x16 words
 
+Team Members - Bharath, Sabeesh, Dinesh, Manu
 
 
 # Assignmet 
